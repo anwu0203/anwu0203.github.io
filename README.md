@@ -6,7 +6,6 @@ Technical Skills: Python, C++, Git
 B.S. - Computer Science University of California, Santa Barbara (_June 2023_)
 
 
-### Experiences
 ### UCSB Computer Science Capstone with Forta Network − Blockchain Rug-Pull Token Detector (_September 2022 – March 2023_)
 
 **Overview:** As part of the UCSB Capstone program, my group and I worked with Forta Network, a blockchain security company, to research and develop a comprehensive detector bot to uncover malicious, rug-pull smart contracts on the Ethereum network.
@@ -22,6 +21,8 @@ After researching hundreds of known malicious smart contracts, we identified sev
 **Tools:** Python, Etherscan API
 
 **Team:** Nicholas Brown, John Lin, Khalid Mihlar, Alejandro Rojas Rodriguez
+
+|
 
 ### Projects
 Farming Robotics Challenge (_February 2023 – June 2023_)
