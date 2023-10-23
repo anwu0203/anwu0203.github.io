@@ -20,8 +20,9 @@ After researching hundreds of known malicious smart contracts, we identified sev
 
 **Tools:** Python, Etherscan API
 
-**Team:** Nicholas Brown, John Lin, Khalid Mihlar, Alejandro Rojas Rodriguez |
+**Team:** Nicholas Brown, John Lin, Khalid Mihlar, Alejandro Rojas Rodriguez
 
+ |
 
 ### Farming Robotics Challenge (_February 2023 – June 2023_)
 
@@ -35,7 +36,7 @@ After researching hundreds of known malicious smart contracts, we identified sev
 
 **Tools:** 
 
-**Team:** 
+**Team:** Jesus Oviedo, Alejandro Rojas Rodriguez
 
 - Collaborated in a robotics team competition focused on agricultural automation of the Amiga robot provided by Farm_ng
 - Designed and engineered a multipurpose data mule package on the Amiga utilizing Raspberry Pis which efficiently travels and collects farming data, such as temperature and humidity, from onfield Raspberry Pis sensors via Bluetooth
