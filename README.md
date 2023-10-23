@@ -2,9 +2,12 @@
 
 Technical Skills: Python, C++, Git
 
+___
+
 ### Education
 B.S. - Computer Science University of California, Santa Barbara (_June 2023_)
 
+___
 
 ### Capstone: Blockchain Rug-Pull Token Detector (_September 2022 – March 2023_)
 
@@ -43,6 +46,8 @@ ___
 - Implemented a computer vision-based alignment system in Python and attached a Li-Fi laser-based charging system to the Amiga in order to precisely position the laser and charge in-field sensor batteries
 - Managed and developed front-end applications utilizing Python and Kivy to organize and graph onboard data as well as display video and information on the computer vision alignment system
 
+___
+
 ### 2048 Game AI (_November 2021 – December 2021_)
 
 **Overview:** 
@@ -58,6 +63,8 @@ ___
 - Developed an AI in Python that plays 2048 utilizing the minimax search algorithm and a score heuristic consisting of a weighted tile matrix
 - Optimized runtime utilizing alpha-beta pruning
 - Resulted in an average game score of 2150
+
+___
 
 ### Mastermind Web Game (_January 2021_)
 
@@ -76,6 +83,7 @@ ___
 - Developed a Mastermind-type game where the player has several attempts to guess a specific order of colors. Each guess will provide the accuracy of the guess, leading to more educated guesses
 - Utilized HTML and CSS for front-end visuals and Java for back-end game logic
 
+___
 
 ### Early Research Scholarship Program (_September 2021 – December 2021_)
 
