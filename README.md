@@ -22,11 +22,11 @@ After researching hundreds of known malicious smart contracts, we identified sev
 
 **Team:** Nicholas Brown, John Lin, Khalid Mihlar, Alejandro Rojas Rodriguez
 
- |
+
 
 ### Farming Robotics Challenge (_February 2023 – June 2023_)
 
-**Overview:** 
+**Overview:** I participated in this robotics challenge held by Farm_ng geared toward smaller
 
 ![Detector Bot Stats](/assets/img/detector_stats.png)
 
