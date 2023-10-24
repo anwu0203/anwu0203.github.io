@@ -1,9 +1,5 @@
 # Computer Science Graduate
 
-Technical Skills: Python, C++, Git
-
-___
-
 ### Education
 B.S. - Computer Science University of California, Santa Barbara (_June 2023_)
 
@@ -29,22 +25,19 @@ ___
 
 ### Farming Robotics Challenge (_February 2023 – June 2023_)
 
-**Overview:** I participated in this robotics challenge held by Farm_ng geared toward smaller
+**Overview:** I participated in this robotics challenge held by Farm_ng geared toward smart farms. The goal was to innovate upon and modify the Amiga farming robot given by Farm_ng to aid smaller farmers. My team decided to create a multipurpose data mule package that can travel to on-field sensors and both collect their data and charge each sensor.
+
+In order to charge each sensor, we utilized Li-Fi laser charging technology which requires the robot to align an on-board charging laser with the receptors on the sensors. I designed and implemented a computer vision-based alignment system in Python for an on-board Raspberry Pi, allowing the Amiga to recognize predesignated AprilTags sensor and precisely position itself with the receptor. Next, we retrieved data from the sensors via Bluetooth connection between the on-board Raspberry Pi and on-field Raspberry Pi sensors, sending the data to the Amiga's central computer using Ethernet. On the central computer, I created a GUI using Python and Kivy to organize and graph the retrieved data as well as a separate application for displaying video and statistical information on the computer vision alignment system. Finally, we implemented a human and object detector using the frontal camera for safety purposes.
 
 ![Detector Bot Stats](/assets/img/detector_stats.png)
 
-**Improvements:** 
+**Improvements:** Although the alignment system works with good precision, I believe that implementing a mechanical linear motion system on the Amiga for the laser can greatly improve precision and energy efficiency.
 
-**Technical Skills:**
+**Technical Skills:** Building computer vision models, GUI development, data processing, robotics
 
-**Tools:** 
+**Tools:** Python, Kivy, Raspberry Pi, AprilTag, Li-Fi, Bluetooth, Ethernet
 
 **Team:** Jesus Oviedo, Alejandro Rojas Rodriguez
-
-- Collaborated in a robotics team competition focused on agricultural automation of the Amiga robot provided by Farm_ng
-- Designed and engineered a multipurpose data mule package on the Amiga utilizing Raspberry Pis which efficiently travels and collects farming data, such as temperature and humidity, from onfield Raspberry Pis sensors via Bluetooth
-- Implemented a computer vision-based alignment system in Python and attached a Li-Fi laser-based charging system to the Amiga in order to precisely position the laser and charge in-field sensor batteries
-- Managed and developed front-end applications utilizing Python and Kivy to organize and graph onboard data as well as display video and information on the computer vision alignment system
 
 ___
 
