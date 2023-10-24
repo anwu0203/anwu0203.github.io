@@ -7,7 +7,7 @@ ___
 
 ### Capstone: Blockchain Rug-Pull Token Detector (_September 2022 – March 2023_)
 
-**Overview:** As part of the UCSB Capstone program, my group and I worked with Forta Network, a blockchain security company, to research and develop a comprehensive detector bot to uncover malicious, rug-pull smart contracts on the Ethereum network.
+**Overview:** As part of the UCSB Capstone program, my group and I partnered with Forta Network, a blockchain security company, to research and develop a comprehensive detector bot to uncover malicious, rug-pull smart contracts on the Ethereum network.
 
 After researching hundreds of known malicious smart contracts, we identified several reoccurring rug-pull tactics including hidden mint functions, token burn functions, and self-destruct functions. To build the detector, we utilized the Etherscan API to obtain contract source code and broke down the code using Abstract Syntax Trees (AST) to analyze each individual function. The detector yielded a 91.8% recall rate on known rug-pull contracts during local testing. The detector bot was deployed on the Forta Network public page to allow users to check for potential common rug-pull functions in their contracts.
 
