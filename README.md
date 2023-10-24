@@ -39,7 +39,9 @@ In order to charge each sensor, we utilized Li-Fi laser charging technology whic
 
 **Team:** Jesus Oviedo, Alejandro Rojas Rodriguez
 
-**Resources:** [![View Demo Video](https://img.shields.io/badge/PDF-View_Poster-blue?logo=googledocs&logoColor=lightblue)](https://drive.google.com/file/d/1W0euaoswMJ67xfmDPM8Pi-swa-j3bRrP/view?usp=sharing) [![View Report](https://img.shields.io/badge/PDF-View_Poster-blue?logo=googledocs&logoColor=lightblue)](/assets/files/robotics_final_report.pdf) 
+[![Open Poster](https://img.shields.io/badge/PDF-View_Poster-green?logo=googledocs&logoColor=green)](/assets/files/robotics_final_report.pdf)
+
+[![View Demo Video](https://img.shields.io/badge/PDF-View_Poster-blue?logo=googledocs&logoColor=lightblue)](https://drive.google.com/file/d/1W0euaoswMJ67xfmDPM8Pi-swa-j3bRrP/view?usp=sharing) [![View Report](https://img.shields.io/badge/PDF-View_Poster-blue?logo=googledocs&logoColor=lightblue)](/assets/files/robotics_final_report.pdf) 
 
 ___
 
