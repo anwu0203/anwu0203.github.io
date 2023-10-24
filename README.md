@@ -39,7 +39,7 @@ In order to charge each sensor, we utilized Li-Fi laser charging technology whic
 
 **Team:** Jesus Oviedo, Alejandro Rojas Rodriguez
 
-**Resources:** [Demo Video](https://drive.google.com/file/d/1W0euaoswMJ67xfmDPM8Pi-swa-j3bRrP/view?usp=sharing) | [Final Report](/assets/files/robotics_final_report.pdf) 
+**Resources:** [Demo Video](https://drive.google.com/file/d/1W0euaoswMJ67xfmDPM8Pi-swa-j3bRrP/view?usp=sharing), [Final Report](/assets/files/robotics_final_report.pdf) 
 
 ___
 
