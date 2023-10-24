@@ -47,21 +47,17 @@ ___
 
 **Overview:** As part of my Artificial Intelligence course, I was tasked to implement an AI using search algorithms to play the game 2048. The goal was to obtain the highest average tile reached over several runs.
 
-I chose to implement the minimax search algorithm and ran node predictions based on the worst-case random tile placements. To achieve this, I employed a weighted tile matrix in order to calculate the importance of each tile for the score matrix. To optimize runtime and allow deeper searches, I implemented alpha-beta pruning.
+I chose to implement the minimax search algorithm and ran node predictions based on the worst-case random tile placements. To achieve this, I employed a weighted tile matrix in order to evaluate the importance of each tile for the score function. To optimize runtime and allow deeper searches, I implemented alpha-beta pruning.
 
 The resulting average highest tile reached was 2150.
 
 ![Detector Bot Stats](/assets/img/2048_stats.png)
 
-**Improvements:** 
+**Improvements:** More research and testing to fine-tune the weighted tile matrix could help optimize the score function.
 
-**Technical Skills:**
+**Technical Skills:** Minimax search algorithm
 
-**Tools:** 
-
-- Developed an AI in Python that plays 2048 utilizing the minimax search algorithm and a score heuristic consisting of a weighted tile matrix
-- Optimized runtime utilizing alpha-beta pruning
-- Resulted in an average game score of 2150
+**Tools:** Python
 
 ___
 
