@@ -2,12 +2,14 @@ title: Andy Wu
 logo: assets/img/headshot_circle.png
 
 description: 
-  >
   <p align="center">
   <a href="mailto:anwu0203@gmail.com">Email</a> |
   <a href="https://github.com/anwu0203/">GitHub</a> |
   <a href="https://www.linkedin.com/in/andy-wu-b0315b1ba/">LinkedIn</a>
-  >
-  B.S. - Computer Science University of California, Santa Barbara (*June 2023*)
+  </p>
+
+  <p align="justify">
+  I have a B.S. degree in Computer Science from UC Santa Barbara. I am passionate about learning new skills and meeting new people!
+  </p>
 
 theme: jekyll-theme-minimal
