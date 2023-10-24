@@ -11,7 +11,7 @@ ___
 
 After researching hundreds of known malicious smart contracts, we identified several reoccurring rug-pull tactics including hidden mint functions, token burn functions, and self-destruct functions. To build the detector, we utilized the Etherscan API to obtain contract source code and broke down the code using Abstract Syntax Trees (AST) to analyze each individual function. The detector yielded a 91.8% recall rate on known rug-pull contracts during local testing. The detector bot was deployed on the Forta Network public page to allow users to check for potential common rug-pull functions in their contracts.
 
-![Detector Bot Stats](/assets/img/detector_stats.png)
+![Detector Bot Stats](/assets/img/gort_movements.png)
 
 **Improvements:** This detector bot can only detect some rug-pull contracts with the heuristics we have covered. Therefore, future steps could be to add more detector functions to cover more malicious functions. Additionally, the use of machine learning with our detector results as inputs could improve the precision of our alerts.
 
@@ -21,7 +21,7 @@ After researching hundreds of known malicious smart contracts, we identified sev
 
 **Team:** Nicholas Brown, John Lin, Khalid Mihlar, Alejandro Rojas Rodriguez, Aashay Parab
 
-[Link](https://drive.google.com/file/d/1W0euaoswMJ67xfmDPM8Pi-swa-j3bRrP/view?usp=sharing)
+**Resources:** | [Demo Video](https://drive.google.com/file/d/1W0euaoswMJ67xfmDPM8Pi-swa-j3bRrP/view?usp=sharing) | [Final Report](/assets/files/robotics_final_report.pdf) |
 
 ___
 
