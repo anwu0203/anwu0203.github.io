@@ -18,7 +18,7 @@ After researching hundreds of known malicious smart contracts, we identified sev
 
 **Team:** Nicholas Brown, John Lin, Khalid Mihlar, Alejandro Rojas Rodriguez, Aashay Parab
 
-[![View Slides](https://img.shields.io/badge/PDF-Open_Slides-blue?logo=microsoftpowerpoint&logoColor=white)](assets/files/fortaknight_ppt)
+[![View Slides](https://img.shields.io/badge/PDF-Open_Slides-blue?logo=microsoftpowerpoint&logoColor=white)](assets/files/fortaknight_ppt.pptx)
 
 ___
 
