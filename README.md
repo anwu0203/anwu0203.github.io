@@ -1,8 +1,5 @@
 # Andy Wu's Portfolio
 
-### Education
-B.S. - Computer Science University of California, Santa Barbara (_June 2023_)
-
 ___
 
 ### Capstone: Blockchain Rug-Pull Token Detector (_September 2022 – March 2023_)
