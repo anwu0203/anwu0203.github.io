@@ -58,6 +58,8 @@ The resulting average highest tile reached was 2150.
 
 **Tools:** Python
 
+[![View Files](https://img.shields.io/badge/GitHub-View_File-blue?logo=github&logoColor=white)](https://github.com/anwu0203/CS165_MP2/tree/main) [![View Report](https://img.shields.io/badge/PDF-View_Report-blue?logo=googledocs&logoColor=white)](/assets/files/2048_report.pdf)
+
 ___
 
 ### Mastermind Web Game (_January 2021_)
