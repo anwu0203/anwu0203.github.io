@@ -45,9 +45,13 @@ ___
 
 ### 2048 Game AI (_November 2021 – December 2021_)
 
-**Overview:** 
+**Overview:** As part of my Artificial Intelligence course, I was tasked to implement an AI using search algorithms to play the game 2048. The goal was to obtain the highest average tile reached over several runs.
 
-![Detector Bot Stats](/assets/img/detector_stats.png)
+I chose to implement the minimax search algorithm and ran node predictions based on the worst-case random tile placements. To achieve this, I employed a weighted tile matrix in order to calculate the importance of each tile for the score matrix. To optimize runtime and allow deeper searches, I implemented alpha-beta pruning.
+
+The resulting average highest tile reached was 2150.
+
+![Detector Bot Stats](/assets/img/2048_stats.png)
 
 **Improvements:** 
 
