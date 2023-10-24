@@ -2,26 +2,6 @@
 
 ___
 
-### Capstone: Blockchain Rug-Pull Token Detector (_September 2022 – March 2023_)
-
-**Overview:** As part of the UCSB Capstone program, my group and I partnered with Forta Network, a blockchain security company, to research and develop a comprehensive detector bot to uncover malicious, rug-pull smart contracts on the Ethereum network.
-
-After researching hundreds of known malicious smart contracts, we identified several reoccurring rug-pull tactics including hidden mint functions, token burn functions, and self-destruct functions. To build the detector, we utilized the Etherscan API to obtain contract source code and broke down the code using Abstract Syntax Trees (AST) to analyze each individual function. The detector yielded a 91.8% recall rate on known rug-pull contracts during local testing. The detector bot was deployed on the Forta Network public page to allow users to check for potential common rug-pull functions in their contracts.
-
-![Detector stats](/assets/img/detector_stats.png)
-
-**Improvements:** This detector bot can only detect some rug-pull contracts with the heuristics we have covered. Therefore, future steps could be to add more detector functions to cover more malicious functions. Additionally, the use of machine learning with our detector results as inputs could improve the precision of our alerts.
-
-**Technical Skills:** AST analysis, Solidity, Web3
-
-**Tools:** Python, Etherscan API
-
-**Team:** Nicholas Brown, John Lin, Khalid Mihlar, Alejandro Rojas Rodriguez, Aashay Parab
-
-[![View Slides](https://img.shields.io/badge/PPT-Open_Slides-blue?logo=microsoftpowerpoint&logoColor=white)](assets/files/fortaknight_ppt.pptx)
-
-___
-
 ### Farming Robotics Challenge (_February 2023 – June 2023_)
 
 **Overview:** I participated in this robotics challenge held by Farm_ng geared toward smart farms. The goal was to innovate upon and modify the Amiga farming robot given by Farm_ng to aid smaller farmers. My team decided to create a multipurpose data mule package that can travel to on-field sensors and both collect their data and charge each sensor.
@@ -39,6 +19,26 @@ In order to charge each sensor, we utilized Li-Fi laser charging technology whic
 **Team:** Jesus Oviedo, Alejandro Rojas Rodriguez
 
 [![View Demo Video](https://img.shields.io/badge/Google_Drive-View_Demo_Video-blue?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1W0euaoswMJ67xfmDPM8Pi-swa-j3bRrP/view?usp=sharing) [![View Report](https://img.shields.io/badge/PDF-View_Report-blue?logo=googledocs&logoColor=white)](/assets/files/robotics_final_report.pdf) 
+
+___
+
+### Capstone: Blockchain Rug-Pull Token Detector (_September 2022 – March 2023_)
+
+**Overview:** As part of the UCSB Capstone program, my group and I partnered with Forta Network, a blockchain security company, to research and develop a comprehensive detector bot to uncover malicious, rug-pull smart contracts on the Ethereum network.
+
+After researching hundreds of known malicious smart contracts, we identified several reoccurring rug-pull tactics including hidden mint functions, token burn functions, and self-destruct functions. To build the detector, we utilized the Etherscan API to obtain contract source code and broke down the code using Abstract Syntax Trees (AST) to analyze each individual function. The detector yielded a 91.8% recall rate on known rug-pull contracts during local testing. The detector bot was deployed on the Forta Network public page to allow users to check for potential common rug-pull functions in their contracts.
+
+![Detector stats](/assets/img/detector_stats.png)
+
+**Improvements:** This detector bot can only detect some rug-pull contracts with the heuristics we have covered. Therefore, future steps could be to add more detector functions to cover more malicious functions. Additionally, the use of machine learning with our detector results as inputs could improve the precision of our alerts.
+
+**Technical Skills:** AST analysis, Solidity, Web3
+
+**Tools:** Python, Etherscan API
+
+**Team:** Nicholas Brown, John Lin, Khalid Mihlar, Alejandro Rojas Rodriguez, Aashay Parab
+
+[![View Slides](https://img.shields.io/badge/PPT-Open_Slides-blue?logo=microsoftpowerpoint&logoColor=white)](assets/files/fortaknight_ppt.pptx)
 
 ___
 
