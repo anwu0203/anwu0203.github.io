@@ -19,7 +19,9 @@ After researching hundreds of known malicious smart contracts, we identified sev
 
 **Tools:** Python, Etherscan API
 
-**Team:** Nicholas Brown, John Lin, Khalid Mihlar, Alejandro Rojas Rodriguez
+**Team:** Nicholas Brown, John Lin, Khalid Mihlar, Alejandro Rojas Rodriguez, Aashay Parab
+
+[Link](https://drive.google.com/file/d/1W0euaoswMJ67xfmDPM8Pi-swa-j3bRrP/view?usp=sharing)
 
 ___
 
