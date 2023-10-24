@@ -21,6 +21,8 @@ After researching hundreds of known malicious smart contracts, we identified sev
 
 **Team:** Nicholas Brown, John Lin, Khalid Mihlar, Alejandro Rojas Rodriguez, Aashay Parab
 
+[![View Slides](https://img.shields.io/badge/PDF-Open_Slides-blue?logo=microsoftpowerpoint&logoColor=white)](assets/files/fortaknight_ppt)
+
 ___
 
 ### Farming Robotics Challenge (_February 2023 – June 2023_)
@@ -39,7 +41,7 @@ In order to charge each sensor, we utilized Li-Fi laser charging technology whic
 
 **Team:** Jesus Oviedo, Alejandro Rojas Rodriguez
 
-[![View Demo Video](https://img.shields.io/badge/PDF-View_Demo_Video-blue?logo=googledrive&logoColor=lightblue)](https://drive.google.com/file/d/1W0euaoswMJ67xfmDPM8Pi-swa-j3bRrP/view?usp=sharing) [![View Report](https://img.shields.io/badge/PDF-View_Report-blue?logo=googledocs&logoColor=lightblue)](/assets/files/robotics_final_report.pdf) 
+[![View Demo Video](https://img.shields.io/badge/PDF-View_Demo_Video-blue?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1W0euaoswMJ67xfmDPM8Pi-swa-j3bRrP/view?usp=sharing) [![View Report](https://img.shields.io/badge/PDF-View_Report-blue?logo=googledocs&logoColor=white)](/assets/files/robotics_final_report.pdf) 
 
 ___
 
