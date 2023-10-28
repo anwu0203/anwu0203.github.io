@@ -88,7 +88,7 @@ ___
 
 My team researched and created a project plan to utilize recombination MCMC in combination with score functions. The model can then randomly generate non-partisan districting lines for electoral vote counting in order to accumulate large amounts of data on potential non-partisan districting plans. Next, we can compare the generated data with actual districting plans to determine the plan's partisanship, thus uncovering gerrymandering. We planned to utilize this model more generally to cover all states.
 
-![MCMC](/assets/img/gerrymandering.png)
+![MCMC](/assets/img/MCMC.png)
 
 **Technical Skills:** Computational theory
 
