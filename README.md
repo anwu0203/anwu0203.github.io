@@ -16,7 +16,7 @@ In order to charge each sensor, we utilized Li-Fi laser charging technology whic
 
 **Tools:** Python, Kivy, Raspberry Pi, AprilTag, Li-Fi, Bluetooth, Ethernet
 
-**Team:** Jesus Oviedo, Alejandro Rojas Rodriguez
+**Team:** Jesus Oviedo, Alejandro Rojas Rodriguez, Aashay Parab
 
 [![View Demo Video](https://img.shields.io/badge/Google_Drive-View_Demo_Video-blue?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1W0euaoswMJ67xfmDPM8Pi-swa-j3bRrP/view?usp=sharing) [![View Report](https://img.shields.io/badge/PDF-View_Report-blue?logo=googledocs&logoColor=white)](/assets/files/robotics_final_report.pdf) 
 
@@ -36,7 +36,7 @@ After researching hundreds of known malicious smart contracts, we identified sev
 
 **Tools:** Python, Etherscan API
 
-**Team:** Nicholas Brown, John Lin, Khalid Mihlar, Alejandro Rojas Rodriguez, Aashay Parab
+**Team:** Nicholas Brown, John Lin, Khalid Mihlar, Alejandro Rojas Rodriguez
 
 [![View Slides](https://img.shields.io/badge/PPT-Open_Slides-blue?logo=microsoftpowerpoint&logoColor=white)](assets/files/fortaknight_ppt.pptx)
 
@@ -64,20 +64,21 @@ ___
 
 ### Mastermind Web Game (_January 2021_)
 
-**Overview:** 
+**Overview:** For a hackathon hosted by SB Hacks, my team decided to create a Mastermind-type web game. The goal was to explore the process of web app development as well as learn new programming languages.
 
-![Detector Bot Stats](/assets/img/detector_stats.png)
+Over a 36-hour period, I learned how to program in Java, HTML, and CSS for webpage development. We designed the overall website layout and rigged the UI with back-end game logic to create a functioning Mastermind game. We presented the web game during the hackathon.
 
-**Improvements:** 
+![Detector Bot Stats](/assets/img/mastermind.png)
 
-**Technical Skills:**
+**Improvements:** The webpage design could have been more complex given more experience in the languages. Furthermore, the website communicates through pop-up windows which could have been translated into an on-screen text box.
 
-**Tools:** 
+**Technical Skills:** Website development
 
-**Team:** 
-- Led a team during a 36-hour hackathon to create a web game
-- Developed a Mastermind-type game where the player has several attempts to guess a specific order of colors. Each guess will provide the accuracy of the guess, leading to more educated guesses
-- Utilized HTML and CSS for front-end visuals and Java for back-end game logic
+**Tools:** Java, HTML, CSS
+
+**Team:** Jesus Oviedo
+
+[![View Files](https://img.shields.io/badge/GitHub-View_File-blue?logo=github&logoColor=white)](https://github.com/jaoviedo/SBHacksProject2021) [![View Website](https://img.shields.io/badge/Link-View_Website-blue?logo=icloud&logoColor=white)](https://github.com/jaoviedo/SBHacksProject2021)
 
 ___
 
