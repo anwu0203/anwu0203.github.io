@@ -42,6 +42,24 @@ After researching hundreds of known malicious smart contracts, we identified sev
 
 ___
 
+### Early Research Scholarship Program (_September 2021 – December 2021_)
+
+**Overview:** As part of the Early Research Scholarship Program, my team was assigned to work with Professor Eric Vigoda to research methods of utilizing Markov Chain Monte Carlo (MCMC) methods to uncover gerrymandering in the state voting system. 
+
+My team researched and created a project plan to utilize recombination MCMC in combination with score functions. The model can then randomly generate non-partisan districting lines for electoral vote counting in order to accumulate large amounts of data on potential non-partisan districting plans. Next, we can compare the generated data with actual districting plans to determine the plan's partisanship, thus uncovering gerrymandering. We planned to utilize this model more generally to cover all states.
+
+![MCMC](/assets/img/MCMC.png)
+
+**Technical Skills:** Computational theory
+
+**Tools:** Markov Chain Monte Carlo
+
+**Team:** Nicholas Johnson
+
+[![View Slides](https://img.shields.io/badge/PPT-Open_Slides-blue?logo=microsoftpowerpoint&logoColor=white)](assets/files/ERSP_presentation.pptx) [![View Report](https://img.shields.io/badge/PDF-View_Proposal-blue?logo=googledocs&logoColor=white)](assets/files/ERSP_proposal.pdf)
+
+___
+
 ### 2048 Game AI (_November 2021 – December 2021_)
 
 **Overview:** As part of my Artificial Intelligence course, I was tasked to implement an AI using search algorithms to play the game 2048. The goal was to obtain the highest average tile reached over several runs.
@@ -80,20 +98,3 @@ Over a 36-hour period, I learned how to program in Java, HTML, and CSS for webpa
 
 [![View Files](https://img.shields.io/badge/GitHub-View_Files-blue?logo=github&logoColor=white)](https://github.com/jaoviedo/SBHacksProject2021) [![View Website](https://img.shields.io/badge/Link-View_Website-blue?logo=icloud&logoColor=white)](https://jaoviedo.github.io/SBHacksProject2021/)
 
-___
-
-### Early Research Scholarship Program (_September 2021 – December 2021_)
-
-**Overview:** As part of the Early Research Scholarship Program, my team was assigned to work with Professor Eric Vigoda to research methods of utilizing Markov Chain Monte Carlo (MCMC) methods to uncover gerrymandering in the state voting system. 
-
-My team researched and created a project plan to utilize recombination MCMC in combination with score functions. The model can then randomly generate non-partisan districting lines for electoral vote counting in order to accumulate large amounts of data on potential non-partisan districting plans. Next, we can compare the generated data with actual districting plans to determine the plan's partisanship, thus uncovering gerrymandering. We planned to utilize this model more generally to cover all states.
-
-![MCMC](/assets/img/MCMC.png)
-
-**Technical Skills:** Computational theory
-
-**Tools:** Markov Chain Monte Carlo
-
-**Team:** Nicholas Johnson
-
-[![View Slides](https://img.shields.io/badge/PPT-Open_Slides-blue?logo=microsoftpowerpoint&logoColor=white)](assets/files/ERSP_presentation.pptx) [![View Report](https://img.shields.io/badge/PDF-View_Proposal-blue?logo=googledocs&logoColor=white)](assets/files/ERSP_proposal.pdf)
