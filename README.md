@@ -78,7 +78,7 @@ Over a 36-hour period, I learned how to program in Java, HTML, and CSS for webpa
 
 **Team:** Jesus Oviedo
 
-[![View Files](https://img.shields.io/badge/GitHub-View_File-blue?logo=github&logoColor=white)](https://github.com/jaoviedo/SBHacksProject2021) [![View Website](https://img.shields.io/badge/Link-View_Website-blue?logo=icloud&logoColor=white)](https://github.com/jaoviedo/SBHacksProject2021)
+[![View Files](https://img.shields.io/badge/GitHub-View_Files-blue?logo=github&logoColor=white)](https://github.com/jaoviedo/SBHacksProject2021) [![View Website](https://img.shields.io/badge/Link-View_Website-blue?logo=icloud&logoColor=white)](https://jaoviedo.github.io/SBHacksProject2021/)
 
 ___
 
