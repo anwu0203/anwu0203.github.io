@@ -84,16 +84,16 @@ ___
 
 ### Early Research Scholarship Program (_September 2021 – December 2021_)
 
-**Overview:** 
+**Overview:** As part of the Early Research Scholarship Program, my team was assigned to work with Professor Eric Vigoda to research methods of utilizing Markov Chain Monte Carlo (MCMC) methods to uncover gerrymandering in the state voting system. 
 
-![Detector Bot Stats](/assets/img/detector_stats.png)
+My team researched and created a project plan to utilize recombination MCMC in combination with score functions. The model can then randomly generate non-partisan districting lines for electoral vote counting in order to accumulate large amounts of data on potential non-partisan districting plans. Next, we can compare the generated data with actual districting plans to determine the plan's partisanship, thus uncovering gerrymandering. We planned to utilize this model more generally to cover all states.
 
-**Improvements:** 
+![Detector Bot Stats](/assets/img/gerrymandering.png)
 
-**Technical Skills:**
+**Technical Skills:** Computational theory
 
-**Tools:** 
+**Tools:** Markov Chain Monte Carlo
 
-**Team:** 
-- Focus: applying and implementing a Markov Chain Monte Carlo (MCMC) algorithm on electoral districting lines to uncover gerrymandering in U.S. state voting
-- Generated non-partisan data utilizing the MCMC algorithm and compared the collected data with state voting results in order to determine the partisanship of state districting lines
+**Team:** Nicholas Johnson
+
+[![View Slides](https://img.shields.io/badge/PPT-Open_Slides-blue?logo=microsoftpowerpoint&logoColor=white)](assets/files/ERSP_presentation.pptx) [![View Report](https://img.shields.io/badge/PPT-View_Proposal-blue?logo=googledocs&logoColor=white)](assets/files/ERSP_proposal.pdf)
