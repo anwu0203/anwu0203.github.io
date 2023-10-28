@@ -96,4 +96,4 @@ My team researched and created a project plan to utilize recombination MCMC in c
 
 **Team:** Nicholas Johnson
 
-[![View Slides](https://img.shields.io/badge/PPT-Open_Slides-blue?logo=microsoftpowerpoint&logoColor=white)](assets/files/ERSP_presentation.pptx) [![View Report](https://img.shields.io/badge/PPT-View_Proposal-blue?logo=googledocs&logoColor=white)](assets/files/ERSP_proposal.pdf)
+[![View Slides](https://img.shields.io/badge/PPT-Open_Slides-blue?logo=microsoftpowerpoint&logoColor=white)](assets/files/ERSP_presentation.pptx) [![View Report](https://img.shields.io/badge/PDF-View_Proposal-blue?logo=googledocs&logoColor=white)](assets/files/ERSP_proposal.pdf)
