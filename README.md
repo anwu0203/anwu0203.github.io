@@ -50,7 +50,7 @@ I chose to implement the minimax search algorithm and ran node predictions based
 
 The resulting average highest tile reached was 2150.
 
-![Detector Bot Stats](/assets/img/2048_stats.png)
+![2048 stats](/assets/img/2048_stats.png)
 
 **Improvements:** More research and testing to fine-tune the weighted tile matrix could help optimize the score function.
 
@@ -68,7 +68,7 @@ ___
 
 Over a 36-hour period, I learned how to program in Java, HTML, and CSS for webpage development. We designed the overall website layout and rigged the UI with back-end game logic to create a functioning Mastermind game. We presented the web game during the hackathon.
 
-![Detector Bot Stats](/assets/img/mastermind.png)
+![website](/assets/img/mastermind.png)
 
 **Improvements:** The webpage design could have been more complex given more experience in the languages. Furthermore, the website communicates through pop-up windows which could have been translated into an on-screen text box.
 
@@ -88,7 +88,7 @@ ___
 
 My team researched and created a project plan to utilize recombination MCMC in combination with score functions. The model can then randomly generate non-partisan districting lines for electoral vote counting in order to accumulate large amounts of data on potential non-partisan districting plans. Next, we can compare the generated data with actual districting plans to determine the plan's partisanship, thus uncovering gerrymandering. We planned to utilize this model more generally to cover all states.
 
-![Detector Bot Stats](/assets/img/gerrymandering.png)
+![MCMC](/assets/img/gerrymandering.png)
 
 **Technical Skills:** Computational theory
 
