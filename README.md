@@ -4,9 +4,9 @@ ___
 
 ### Farming Robotics Challenge (_February 2023 – June 2023_)
 
-**Overview:** I participated in this robotics challenge held by Farm_ng geared toward smart farms. The goal was to innovate upon and modify the Amiga farming robot given by Farm_ng to aid smaller farmers. My team decided to create a multipurpose data mule package that can travel to on-field sensors and both collect their data and charge each sensor.
+**Overview:** I participated in this robotics challenge hosted by Farm_ng geared toward smart farms. The goal was to innovate and enhance the Amiga farming robot given by Farm_ng to aid smaller farmers. My team decided to create a multipurpose data mule package capable of traveling to on-field sensors, collecting data, and charging each sensor.
 
-In order to charge each sensor, we utilized Li-Fi laser charging technology which requires the robot to align an on-board charging laser with the receptors on the sensors. I designed and implemented a computer vision-based alignment system in Python for an on-board Raspberry Pi, allowing the Amiga to recognize predesignated AprilTags sensor and precisely position itself with the receptor. Next, we retrieved data from the sensors via Bluetooth connection between the on-board Raspberry Pi and on-field Raspberry Pi sensors, sending the data to the Amiga's central computer using Ethernet. On the central computer, I created a GUI using Python and Kivy to organize and graph the retrieved data as well as a separate application for displaying video and statistical information on the computer vision alignment system. Finally, we implemented a human and object detector using the frontal camera for safety purposes.
+To charge each sensor, we utilized Li-Fi laser charging technology which required the robot to align an onboard charging laser with the receptors on the sensors. I designed and implemented a computer vision-based alignment system in Python for an onboard Raspberry Pi, enabling the Amiga to recognize predesignated AprilTags on sensors and precisely position itself with the receptors. Next, we retrieved data from the sensors via Bluetooth connections between the on-board Raspberry Pi and on-field Raspberry Pi sensors, sending the data to the central computer of the Amiga using Ethernet. On the central computer, I created a GUI using Python and Kivy to organize and visualize the retrieved data. Additionally, I developed a separate application for displaying video and providing statistical information on the computer vision alignment system. Finally, we implemented a human and object detector using the frontal camera for safety purposes.
 
 ![Amiga Example](/assets/img/gort_movements.png)
 
@@ -24,9 +24,9 @@ ___
 
 ### Capstone: Blockchain Rug-Pull Token Detector (_September 2022 – March 2023_)
 
-**Overview:** As part of the UCSB Capstone program, my group and I partnered with Forta Network, a blockchain security company, to research and develop a comprehensive detector bot to uncover malicious, rug-pull smart contracts on the Ethereum network.
+**Overview:** As part of the UCSB Capstone program, my group and I partnered with Forta Network, a blockchain security company, to research and develop a comprehensive detector bot designed to uncover malicious rug-pull smart contracts on the Ethereum network.
 
-After researching hundreds of known malicious smart contracts, we identified several reoccurring rug-pull tactics including hidden mint functions, token burn functions, and self-destruct functions. To build the detector, we utilized the Etherscan API to obtain contract source code and broke down the code using Abstract Syntax Trees (AST) to analyze each individual function. The detector yielded a 91.8% recall rate on known rug-pull contracts during local testing. The detector bot was deployed on the Forta Network public page to allow users to check for potential common rug-pull functions in their contracts.
+After researching hundreds of known malicious smart contracts, we identified several recurring rug-pull tactics, including hidden mint functions, token burn functions, and self-destruct functions. To build the detector, we utilized the Etherscan API to obtain contract source code and broke down the code using Abstract Syntax Trees (AST) to analyze each individual function. The detector achieved a 91.8% recall rate on known rug-pull contracts during local testing. The detector bot was deployed on the Forta Network public page to allow users to check for potential common rug-pull functions in their contracts.
 
 ![Detector stats](/assets/img/detector_stats.png)
 
@@ -44,9 +44,9 @@ ___
 
 ### Early Research Scholarship Program (_September 2021 – December 2021_)
 
-**Overview:** As part of the Early Research Scholarship Program, my team was assigned to work with Professor Eric Vigoda to research methods of utilizing Markov Chain Monte Carlo (MCMC) methods to uncover gerrymandering in the state voting system. 
+**Overview:** As part of the Early Research Scholarship Program, my team was assigned to collaborate with Professor Eric Vigoda on researching the application of Markov Chain Monte Carlo (MCMC) methods to uncover gerrymandering within the state voting system. 
 
-My team researched and created a project plan to utilize recombination MCMC in combination with score functions. The model can then randomly generate non-partisan districting lines for electoral vote counting in order to accumulate large amounts of data on potential non-partisan districting plans. Next, we can compare the generated data with actual districting plans to determine the plan's partisanship, thus uncovering gerrymandering. We planned to utilize this model more generally to cover all states.
+We researched and devised a project plan to utilize recombination MCMC in conjunction with score functions. The model can randomly generate non-partisan districting lines for electoral vote counting, allowing us to accumulate large amounts of data on potential non-partisan districting plans. Next, we can compare this generated data with actual districting plans to determine their partisanship, thus uncovering instances of gerrymandering. We planned to apply this model more generally to other U.S. states.
 
 ![MCMC](/assets/img/MCMC.png)
 
@@ -62,9 +62,9 @@ ___
 
 ### 2048 Game AI (_November 2021 – December 2021_)
 
-**Overview:** As part of my Artificial Intelligence course, I was tasked to implement an AI using search algorithms to play the game 2048. The goal was to obtain the highest average tile reached over several runs.
+**Overview:** As part of my Artificial Intelligence course, I was tasked to implement an AI using search algorithms to play the game 2048. The goal was to obtain the highest average tile reached over multiple runs.
 
-I chose to implement the minimax search algorithm and ran node predictions based on the worst-case random tile placements. To achieve this, I employed a weighted tile matrix in order to evaluate the importance of each tile for the score function. To optimize runtime and allow deeper searches, I implemented alpha-beta pruning.
+I chose to implement the minimax search algorithm and conducted node predictions based on worst-case random tile placements. To accomplish this, I utilized a weighted tile matrix to evaluate the significance of each tile for the score function. To optimize runtime and allow deeper searches, I also integrated alpha-beta pruning.
 
 The resulting average highest tile reached was 2150.
 
@@ -82,11 +82,11 @@ ___
 
 ### Mastermind Web Game (_January 2021_)
 
-**Overview:** For a hackathon hosted by SB Hacks, my team decided to create a Mastermind-type web game. The goal was to explore the process of web app development as well as learn new programming languages.
+**Overview:** For a hackathon hosted by SB Hacks, my team decided to create a web-based game inspired by Mastermind. Our goals were to explore the process of web app development and gain proficiency in new programming languages.
 
-Over a 36-hour period, I learned how to program in Java, HTML, and CSS for webpage development. We designed the overall website layout and rigged the UI with back-end game logic to create a functioning Mastermind game. We presented the web game during the hackathon.
+Over a 36-hour period, I learned how to program in Java, HTML, and CSS for webpage development. We designed the overall website layout and connected the user interface with back-end game logic, resulting in a fully functional Mastermind game. We presented our web game during the hackathon.
 
-![website](/assets/img/mastermind.png)
+![Website](/assets/img/mastermind.png)
 
 **Improvements:** The webpage design could have been more complex given more experience in the languages. Furthermore, the website communicates through pop-up windows which could have been translated into an on-screen text box.
 
