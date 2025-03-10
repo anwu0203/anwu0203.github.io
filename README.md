@@ -42,6 +42,18 @@ After researching hundreds of known malicious smart contracts, we identified sev
 
 ___
 
+### UC Santa Barbara Course Catalog Webpage (_April 2022 - June 2022_)
+
+**Overview:** For one of my courses, we learned and applied the fundamentals of web development by developing new features and iterating upon the existing code base of the UC Santa Barbara Course Catalog Webpage using Java and JavaScript.
+
+As part of the course, I spearheaded the development of the project utilizing Agile-style development cycles, including Scrum exercises such as sprint planning, daily stand-ups, and Kanban boards. Leading the team, I designed and implemented new features for the website, including navigation tabs to different database tables for class categories and user authorization protocols with Google OAuth. We mainly focused on using Maven and Spring Boot for the framework of the webpages. Additionally, to ensure code coverage cases, we utilized JaCoCo coverage tests for Maven.
+
+**Technical Skills:** Web development, Agile
+
+**Tools** Java, JavaScript, Maven, Spring Boot, JaCoCo, Google OAuth
+
+___
+
 ### Early Research Scholarship Program (_September 2021 – December 2021_)
 
 **Overview:** As part of the Early Research Scholarship Program, my team was assigned to collaborate with Professor Eric Vigoda on researching the application of Markov Chain Monte Carlo (MCMC) methods to uncover gerrymandering within the state voting system. 
